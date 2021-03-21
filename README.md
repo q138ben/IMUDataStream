@@ -3,4 +3,4 @@ This is to build a server with C sharp and a clinet in python. They are then to 
 
 ## Basic use
 
-run IMUDataStream.py
+run IMUDataStream.py after IMU sensors are connected to the server
